@@ -1,4 +1,4 @@
-# Aplicación Friendface
+# Friendface
 
 Friendface es una aplicación diseñada para mostrar una lista de usuarios obtenida desde un servicio web y permite ver información detallada de cada usuario seleccionado. Utiliza SwiftUI para la interfaz de usuario y SwiftData para gestionar la persistencia de datos.
 
